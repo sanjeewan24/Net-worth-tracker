@@ -1,0 +1,10 @@
+{
+    "theme": "dark",
+    "currency": "USD",
+    "password_hash": null,
+    "last_backup": null,
+    "gemini_api_key": "",
+    "auto_update_enabled": false,
+    "current_user": "default",
+    "last_auto_update_date": "2025-11-26"
+}
